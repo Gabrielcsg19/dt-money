@@ -41,7 +41,7 @@ yarn start
 - [Typescript](https://www.typescriptlang.org/) - Superset Javascript que adiciona tipagem estática à linguagem.
 - [Mirage JS](https://miragejs.com/) - Biblioteca para geração de dados fictícios para serem consumidos durante o desenvolvimento do front-end.
 - [styled-components](https://styled-components.com/) - Biblioteca que fornece diversos recursos de estilização ao React.
-- [React Modal](https://github.com/reactjs/react-modal) - Componente de modal para o React com diversos recursos de acessibilidade integrado.
+- [React Modal](https://github.com/reactjs/react-modal) - Componente de modal para o React com diversos recursos de acessibilidade integrados.
 
 ## 🎉 Agradecimentos
 
