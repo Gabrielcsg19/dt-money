@@ -1,6 +1,6 @@
 <h1 align="center">dtmoney</h1><br>
 
-![Screenshot 2021-08-17 at 15-13-51 dtmoney](https://user-images.githubusercontent.com/54643425/129778848-1a553657-126d-4a42-ad9c-3bd4640e2c52.png)
+![Screenshot 2021-08-17 at 15-13-51 dtmoney](https://raw.githubusercontent.com/Gabrielcsg19/dt-money/master/assets/cover-img.png)
 
 ---
 Gerenciador de finanças pessoais desenvolvido com __React.js__ com dados fictícios gerados pelo __Mirage JS__.
